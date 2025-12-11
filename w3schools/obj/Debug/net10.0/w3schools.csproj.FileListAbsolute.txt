@@ -1,0 +1,15 @@
+D:\GAME-DEVELOPER\CODING\w3schools\bin\Debug\net10.0\w3schools.exe
+D:\GAME-DEVELOPER\CODING\w3schools\bin\Debug\net10.0\w3schools.deps.json
+D:\GAME-DEVELOPER\CODING\w3schools\bin\Debug\net10.0\w3schools.runtimeconfig.json
+D:\GAME-DEVELOPER\CODING\w3schools\bin\Debug\net10.0\w3schools.dll
+D:\GAME-DEVELOPER\CODING\w3schools\bin\Debug\net10.0\w3schools.pdb
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.AssemblyInfoInputs.cache
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.AssemblyInfo.cs
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.csproj.CoreCompileInputs.cache
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.sourcelink.json
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.dll
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\refint\w3schools.dll
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.pdb
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\w3schools.genruntimeconfig.cache
+D:\GAME-DEVELOPER\CODING\w3schools\obj\Debug\net10.0\ref\w3schools.dll
